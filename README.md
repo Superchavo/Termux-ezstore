@@ -5,3 +5,6 @@ first do pkg upgrade && pkg install wget yad root-repo tur-repo games-repo xfce4
 Also if Termux asks about a 'configuration file', just press Enter to keep the default
 
 if this breaks for u, create a issue
+
+
+!!!!!!PLEASE DON PUT THIS CODE IN NORMAL DISTROS OR PROOT, IT WONT WORK!!!!!!
